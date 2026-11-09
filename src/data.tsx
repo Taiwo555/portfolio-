@@ -5,7 +5,7 @@ export const profile = {
   role: "Frontend developer",
   location: "Lagos, Nigeria",
   timezone: "WAT · UTC+1",
-  email: "rolandhunjunude60@gmail.com",
+  email: "hunjunuderoland20@gmail.com",
   github: "https://github.com/Taiwo555",
   availability: "Open to remote frontend roles",
 };
